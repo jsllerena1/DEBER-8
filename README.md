@@ -785,22 +785,7 @@ Diagrama fasorial:
 
 # VIDEO
 
-https://uespe-my.sharepoint.com/:v:/g/personal/dxguallpa_espe_edu_ec/Ed2M-vBLINRImrkFYWsbyVQBHrhhzrVpaS1xMFH5q6UBLA?e=
-
-# CONCLUSIONES
-
-- En un circuito RC la relación entre las corrientes y los voltajes se da cuando: la corriente que pasa por medio de un resistor esta en fase con el voltaje, por otro lado, cuando la corriente pasa por un capacitor aparece adelantada en 90 grados con respecto al voltaje.
-
-- Para realizar el análisis de un circuito RL con dos conjuntos de componentes en paralelo se debe seguir lo siguiente: primero expresar cada impedancia de rama en forma rectangular y transformar cada una de estas impedancias a forma polar, a continuación, se debe calcular la corriente de rama mediante notación polar, por lo cual una vez calculadas las corrientes de rama, es posible encontrar la corriente total sumando las dos corrientes de rama en forma rectangular.
-
-- Los numeros complejos son una herramienta importante para el análisis de circuitos de ca ya que expresar matemáticamente una cantidad fasorial y permite sumar, restar, multiplicar y dividir cantidades fasoriales.
-
-- La variación de la tangente del ángulo de desfase con respecto a la frecuencia, depende tanto de la resistencia del circuito como de la inductancia.
-
-- Cuando la inductancia del circuito es cero, el ángulo de desfase toma un valor muy cercano a cero y la impedancia toma el valor de la resistencia del circuito.
-
-# BIBLIOGRAFÍA
-Floyd, T. L. (2007). Principios de Circuitos Electricos. Mexico: Pearson Educacion. http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf
+https://uespe-my.sharepoint.com/:v:/g/personal/dxguallpa_espe_edu_ec/Ed2M-vBLINRImrkFYWsbyVQBHrhhzrVpaS1xMFH5q6UBLA?e
 
 # CONCLUSIONES
 
