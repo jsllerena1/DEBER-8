@@ -785,7 +785,7 @@ Diagrama fasorial:
 
 # VIDEO
 
-https://uespe-my.sharepoint.com/:v:/g/personal/dxguallpa_espe_edu_ec/Ed2M-vBLINRImrkFYWsbyVQBHrhhzrVpaS1xMFH5q6UBLA?e
+https://uespe-my.sharepoint.com/:v:/g/personal/dxguallpa_espe_edu_ec/Ed2M-vBLINRImrkFYWsbyVQBHrh
 
 # CONCLUSIONES
 
